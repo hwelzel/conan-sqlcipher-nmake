@@ -1,0 +1,2 @@
+[requires]
+sqlcipher/4.6.1@
